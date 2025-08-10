@@ -31,6 +31,7 @@ function Navbar() {
           <img  className='profile' src={profile_img} alt="profile" />
         
           <div className="dropdown">
+            <p>s</p>
             <p>Sign Out</p>
           </div>
         </div>
