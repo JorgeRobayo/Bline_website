@@ -16,11 +16,11 @@ const Home = () => {
           <img className="caption-img" src={hero_title} alt="hero-title" />
           <p>
             Discovering his ties to a secret ancient order, a young man living
-            in moder Istanbul embarks on a quest to save the city from an
+            in modern Istanbul embarks on a quest to save the city from an
             immortal enemy.
           </p>
           <div className="hero-btns">
-            <button className="btn dark-btn">
+            <button className="btn">
               <img src={play_icon} alt="" />
               Play
             </button>
